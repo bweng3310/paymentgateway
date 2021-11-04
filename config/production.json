@@ -1,0 +1,8 @@
+{
+    "name": "my express all -production",
+    "mail": {
+        "host": "prod-mail-server",
+        "password": "1234"
+        
+    }
+}
